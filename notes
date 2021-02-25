@@ -1,0 +1,7 @@
+1. Build a CLI
+2. welcome my user, and prompt them to either select a list or tell them to exit
+3. if they happen to select list, it will showcase a list of locations for travel
+    A. location
+4 they can select a location by name and it will give them details on how dangerous
+    it may be due to COVID 19
+5. if they select exit then it will say 'goodbye' and then exit program.
